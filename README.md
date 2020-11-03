@@ -1,5 +1,6 @@
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=Gkirito&style=flat-square&color=brightgreen)
-
+- 🔭 I’m currently working at Home :D
+- 🌱 I’m currently learning `Go`
 <!--
 **Gkirito/Gkirito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Gkirito
 ![Gkirito's github stats](https://github-readme-stats.vercel.app/api?username=Gkirito&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gkirito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gkirito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#### Platform&Tools
+
+[![](https://img.shields.io/badge/macOS-Catalina-d0d1d4?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/catalina/)>)
+[![](https://img.shields.io/badge/CentOS-7.8-blue?style=flat-square&logo=Centos)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+
+
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/Jetbrains-Intelllj%20IDEA%20Ultimate-red?style=flat-square&logo=Intellij-IDEA)](https://www.docker.com/)
