@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![ViewCount](https://views.whatilearened.today/views/github/Gkirito/Gkirito.svg)
 
 <!--
 **Gkirito/Gkirito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
