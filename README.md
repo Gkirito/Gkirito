@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 #### Platform&Tools
 
-[![](https://img.shields.io/badge/macOS-Catalina-d0d1d4?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/catalina/)>)
+[![](https://img.shields.io/badge/macOS-Big%20Sur-FD6585?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/big-sur/)>)
 [![](https://img.shields.io/badge/CentOS-7.8-blue?style=flat-square&logo=Centos)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 
