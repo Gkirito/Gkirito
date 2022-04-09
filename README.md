@@ -1,6 +1,10 @@
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=Gkirito&style=flat-square&color=brightgreen)
 - 🔭 I’m currently working at ChainX :D
-- 🌱 I’m currently learning `Go` `K8s` and `Istio`
+- 🌱 I’m currently learning 
+        Programming Language: `Go` `Rust` 
+        CloudNative: `K8s` `Istio`
+        Blockchain: `Solidity`
+        
 <!--
 **Gkirito/Gkirito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
