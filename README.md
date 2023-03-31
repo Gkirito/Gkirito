@@ -37,3 +37,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Jetbrains-WebStorm-green?style=flat-square&logo=WebStorm)](https://www.jetbrains.com/webstorm/)
 [![](https://img.shields.io/badge/Jetbrains-Pycharm-yellow?style=flat-square&logo=Pycharm)](https://www.jetbrains.com/pycharm/)
 [![](https://img.shields.io/badge/Microsoft-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
