@@ -82,14 +82,13 @@
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=Gkirito&screen_effect=true&background=linear-gradient(to%20bottom%20right,%235580eb,%232aeeff)" width="420" alt="GitHub Stats"/>
 -->
 
-<!-- Contribution Snake -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gkirito/Gkirito/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gkirito/Gkirito/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Gkirito/Gkirito/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<!-- 3D Contributions (auto-updated by action) -->
+<picture>
+  <!-- 深色主题用夜景静态图，加载稳；浅色用季节动画图，带一点动效 -->
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+  <img alt="3D contributions" src="./profile-3d-contrib/profile-green-animate.svg" />
+</picture>
 
 <h3>🌐 Find me</h3>
 <p>
