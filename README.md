@@ -1,70 +1,67 @@
-<!-- Gradient Top Banner -->
+<!-- Top Gradient Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Gkirito&fontAlign=50&fontAlignY=40&color=gradient&customColorList=2,14,18,30&fontColor=ffffff" alt="banner"/>
 </p>
 
-<!-- Headline (left aligned) -->
 <h2>Hi, I'm Gkirito 👋</h2>
 <p>
   Web3 builder · Infra designer · Chain interoperability researcher<br>
   Building across chains — DA / Rollups / Bridges / Protocol engineering
 </p>
 
-<!-- Typing line (subtle accent, not centered) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=2AA889&width=520&lines=Modular+Blockchains+%7C+Data+Availability;Cross-chain+Bridges+%7C+Rollups;Open-source+Infra+for+Web3+🌐" alt="typing" />
+<!-- Typing line -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=2AA889&width=560&lines=Modular+Blockchains+%7C+Data+Availability;Cross-chain+Bridges+%7C+Rollups;Open-source+Infra+for+Web3+🌐" alt="typing" />
 
-<br><br>
+<br>
 
-<!-- Environment & Tools (left aligned badges) -->
-<h3>Environment · Tools</h3>
+<h3>🧰 Environment · Tools</h3>
 <p>
-  <img src="https://img.shields.io/badge/macOS-Tahoe-black?style=flat-square&logo=apple" alt="macOS Tahoe"/>
-  <img src="https://img.shields.io/badge/Debian-Stable-blue?style=flat-square&logo=debian" alt="Debian"/>
-  <img src="https://img.shields.io/badge/Ubuntu-24.04-orange?style=flat-square&logo=ubuntu" alt="Ubuntu 24.04"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-Rolling-lightblue?style=flat-square&logo=archlinux" alt="Arch Linux"/>
-  <img src="https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows11" alt="Windows 11"/>
+  <img src="https://img.shields.io/badge/macOS-Tahoe-000000?style=flat-square&logo=apple" alt="macOS Tahoe"/>
+  <img src="https://img.shields.io/badge/Debian-Stable-AB1F2B?style=flat-square&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/Ubuntu-24.04-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu 24.04"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-Rolling-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows 11"/>
   <br>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Ghostty-Terminal-ffb86c?style=flat-square" alt="Ghostty"/>
+  <img src="https://img.shields.io/badge/Ghostty-Terminal-0A0A0A?style=flat-square" alt="Ghostty"/>
   <img src="https://img.shields.io/badge/Fish_Shell-00A6D6?style=flat-square&logo=fishshell&logoColor=white" alt="Fish Shell"/>
 </p>
 
-<br>
-
-<!-- Tech Stack (icon grid, left aligned) -->
-<h3>Tech Stack</h3>
-
+<h3>🧠 Tech Stack</h3>
 <p>
   <!-- row 1 -->
-  <img src="https://skillicons.dev/icons?i=go,rust,python,solidity,js,ts,java,bash" alt="go rust python solidity js ts java bash" />
+  <img src="https://skillicons.dev/icons?i=go,rust,py,solidity,js,ts,java,bash&perline=8" alt="go rust python solidity js ts java bash" />
   <br>
-  <!-- row 2 -->
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,helm,kubernetes,git,githubactions,linux" alt="postgres redis docker helm k8s git gha linux" />
+  <!-- row 2 (Helm: use Simple Icons because skillicons has no helm) -->
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,git,githubactions,linux&perline=8" alt="postgres redis docker kubernetes git gha linux" />
+  <img src="https://cdn.simpleicons.org/helm/0F1689" alt="Helm" width="42" height="42" style="vertical-align:middle;margin-left:4px;" />
 </p>
 
-<br>
-
-<!-- What I'm Building (short & crisp) -->
-<h3>Currently Building in Web3</h3>
+<h3>🚀 Currently Building in Web3</h3>
 <ul>
-  <li>DA & Modular Rollups — scaling execution, proof aggregation, shared security</li>
+  <li>DA & Modular Rollups — scalability, proof aggregation, shared security</li>
   <li>Cross-chain Infra — bridging between Bitcoin · EVM · DA layers</li>
   <li>Protocol & Infra Engineering — nodes, validators, staking & slashing logic</li>
   <li>Community — Avail KOL · hackathons · open-source contributor</li>
 </ul>
 
-<br>
+<h3>⌛ Coding Activity (WakaTime)</h3>
+<!-- 如果你的 WakaTime 用户名不是 Gkirito，请把 username= 替换成你的用户名 -->
+<a href="https://wakatime.com/@Gkirito">
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Gkirito&layout=compact&hide_border=true&range=last_7_days"
+    alt="WakaTime last 7 days"
+  />
+</a>
 
-<!-- Stats (compact, left) -->
-<h3>Activity</h3>
-<p>
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=Gkirito&screen_effect=true&background=linear-gradient(to%20bottom%20right,%235580eb,%232aeeff)" width="420" alt="GitHub Stats"/>
-  <img src="https://komarev.com/ghpvc/?username=Gkirito&style=flat-square&color=brightgreen" alt="views"/>
-</p>
+<!-- 可选：你的 GitHub 统计（如觉得不准可以删掉） -->
+<!--
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=Gkirito&screen_effect=true&background=linear-gradient(to%20bottom%20right,%235580eb,%232aeeff)" width="420" alt="GitHub Stats"/>
+-->
 
-<!-- Snake (kept centered as a visual break) -->
+<!-- Snake (中间放一段视觉休息，不全局居中) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gkirito/Gkirito/output/github-contribution-grid-snake-dark.svg" />
@@ -73,8 +70,7 @@
   </picture>
 </p>
 
-<!-- Neon-style Social (bright badges, not centered) -->
-<h3>Find me</h3>
+<h3>🌐 Find me</h3>
 <p>
   <a href="https://twitter.com/Gukirito">
     <img src="https://img.shields.io/badge/Twitter-@Gukirito-00E5FF?style=for-the-badge&logo=twitter&logoColor=white&labelColor=001219" alt="Twitter"/>
@@ -85,9 +81,10 @@
   <a href="https://gkirito.com">
     <img src="https://img.shields.io/badge/Website-gkirito.com-FF00E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=001219" alt="Website"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Gkirito&style=flat-square&color=brightgreen" alt="views" />
 </p>
 
-<!-- Gradient Bottom Banner -->
+<!-- Bottom Gradient Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=2,14,18,30" alt="footer"/>
 </p>
