@@ -20,19 +20,6 @@
   alt="typing"
 />
 
-<!-- ✅ Self-hosted alternative (commented; replace domain if you deploy your own) -->
-<!--
-<img
-  src="https://typing.gkirito.com?font=JetBrains+Mono&pause=1200&color=2AA889&width=560&lines=Modular+Blockchains+%7C+Data+Availability;Cross-chain+Bridges+%7C+Rollups;Open-source+Infra+for+Web3+🌐"
-  alt="typing (self-hosted)"
-/>
--->
-
-<!-- 🧵 Static fallback (commented; enable if the typing svg is flaky) -->
-<!--
-<p><strong>Modular Blockchains · Data Availability · Cross-chain Bridges · Rollups · Open-source Infra for Web3 🌐</strong></p>
--->
-
 <br>
 
 <h3>🧰 Environment · Tools</h3>
@@ -56,8 +43,7 @@
   <img src="https://skillicons.dev/icons?i=go,rust,py,solidity,js,ts,java,bash&perline=8" alt="go rust python solidity js ts java bash" />
   <br>
   <!-- row 2 (Helm uses Simple Icons because skillicons has no helm) -->
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,git,githubactions,linux&perline=8" alt="postgres redis docker kubernetes git github actions linux" />
-  <img src="https://cdn.simpleicons.org/helm/0F1689" alt="Helm" width="42" height="42" style="vertical-align:middle;margin-left:4px;" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,neovim,kubernetes,git,githubactions,linux&perline=8" alt="postgres redis docker kubernetes git github actions linux" />
 </p>
 
 <h3>🚀 Currently Building in Web3</h3>
@@ -70,17 +56,24 @@
 
 <h3>⌛ Coding Activity (WakaTime)</h3>
 <!-- Replace username= if needed -->
-<a href="https://wakatime.com/@Gkirito">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Gkirito&layout=compact&hide_border=true&range=last_7_days"
-    alt="WakaTime last 7 days"
+<!-- WakaTime card: auto switch light/dark -->
+<picture>
+  <!-- Dark mode -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Gkirito&layout=compact&hide_border=true&range=last_7_days&theme=github_dark&bg_color=00000000"
   />
-</a>
-
-<!-- Optional GitHub stats (commented because private work skews accuracy) -->
-<!--
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=Gkirito&screen_effect=true&background=linear-gradient(to%20bottom%20right,%235580eb,%232aeeff)" width="420" alt="GitHub Stats"/>
--->
+  <!-- Light mode -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Gkirito&layout=compact&hide_border=true&range=last_7_days&theme=default&bg_color=00000000"
+  />
+  <!-- Fallback (for old browsers or if media queries fail) -->
+  <img
+    alt="WakaTime last 7 days"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Gkirito&layout=compact&hide_border=true&range=last_7_days&theme=default&bg_color=00000000"
+  />
+</picture>
 
 <!-- 3D Contributions (auto-updated by action) -->
 <picture>
