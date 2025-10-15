@@ -3,14 +3,35 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Gkirito&fontAlign=50&fontAlignY=40&color=gradient&customColorList=2,14,18,30&fontColor=ffffff" alt="banner"/>
 </p>
 
+<!-- View Counter centered above the header (as requested) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gkirito&style=flat-square&color=brightgreen" alt="views"/>
+</p>
+
 <h2>Hi, I'm Gkirito 👋</h2>
 <p>
   Web3 builder · Infra designer · Chain interoperability researcher<br>
-  Building across chains — DA / Rollups / Bridges / Protocol engineering
+  Building across chains — DA / Rollups / Bridges · Protocol engineering
 </p>
 
-<!-- Typing line -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=2AA889&width=560&lines=Modular+Blockchains+%7C+Data+Availability;Cross-chain+Bridges+%7C+Rollups;Open-source+Infra+for+Web3+🌐" alt="typing" />
+<!-- Typing line (public instance) -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=2AA889&width=560&lines=Modular+Blockchains+%7C+Data+Availability;Cross-chain+Bridges+%7C+Rollups;Open-source+Infra+for+Web3+🌐"
+  alt="typing"
+/>
+
+<!-- ✅ Self-hosted alternative (commented; replace domain if you deploy your own) -->
+<!--
+<img
+  src="https://typing.gkirito.com?font=JetBrains+Mono&pause=1200&color=2AA889&width=560&lines=Modular+Blockchains+%7C+Data+Availability;Cross-chain+Bridges+%7C+Rollups;Open-source+Infra+for+Web3+🌐"
+  alt="typing (self-hosted)"
+/>
+-->
+
+<!-- 🧵 Static fallback (commented; enable if the typing svg is flaky) -->
+<!--
+<p><strong>Modular Blockchains · Data Availability · Cross-chain Bridges · Rollups · Open-source Infra for Web3 🌐</strong></p>
+-->
 
 <br>
 
@@ -34,8 +55,8 @@
   <!-- row 1 -->
   <img src="https://skillicons.dev/icons?i=go,rust,py,solidity,js,ts,java,bash&perline=8" alt="go rust python solidity js ts java bash" />
   <br>
-  <!-- row 2 (Helm: use Simple Icons because skillicons has no helm) -->
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,git,githubactions,linux&perline=8" alt="postgres redis docker kubernetes git gha linux" />
+  <!-- row 2 (Helm uses Simple Icons because skillicons has no helm) -->
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,git,githubactions,linux&perline=8" alt="postgres redis docker kubernetes git github actions linux" />
   <img src="https://cdn.simpleicons.org/helm/0F1689" alt="Helm" width="42" height="42" style="vertical-align:middle;margin-left:4px;" />
 </p>
 
@@ -48,7 +69,7 @@
 </ul>
 
 <h3>⌛ Coding Activity (WakaTime)</h3>
-<!-- 如果你的 WakaTime 用户名不是 Gkirito，请把 username= 替换成你的用户名 -->
+<!-- Replace username= if needed -->
 <a href="https://wakatime.com/@Gkirito">
   <img
     src="https://github-readme-stats.vercel.app/api/wakatime?username=Gkirito&layout=compact&hide_border=true&range=last_7_days"
@@ -56,12 +77,12 @@
   />
 </a>
 
-<!-- 可选：你的 GitHub 统计（如觉得不准可以删掉） -->
+<!-- Optional GitHub stats (commented because private work skews accuracy) -->
 <!--
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=Gkirito&screen_effect=true&background=linear-gradient(to%20bottom%20right,%235580eb,%232aeeff)" width="420" alt="GitHub Stats"/>
 -->
 
-<!-- Snake (中间放一段视觉休息，不全局居中) -->
+<!-- Contribution Snake -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gkirito/Gkirito/output/github-contribution-grid-snake-dark.svg" />
@@ -81,7 +102,6 @@
   <a href="https://gkirito.com">
     <img src="https://img.shields.io/badge/Website-gkirito.com-FF00E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=001219" alt="Website"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Gkirito&style=flat-square&color=brightgreen" alt="views" />
 </p>
 
 <!-- Bottom Gradient Banner -->
