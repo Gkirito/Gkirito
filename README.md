@@ -16,7 +16,7 @@
 
 <!-- Typing line (public instance) -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=2AA889&width=560&lines=Modular+Blockchains+%7C+Data+Availability;Cross-chain+Bridges+%7C+Rollups;Open-source+Infra+for+Web3+🌐"
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&pause=1200&color=2AA889&width=560&lines=Modular+Blockchains+%7C+Data+Availability;Cross-chain+Bridges+%7C+Rollups;Open-source+Infra+for+Web3+%F0%9F%8C%90"
   alt="typing"
 />
 
