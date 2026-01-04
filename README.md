@@ -61,17 +61,17 @@
   <!-- Dark mode -->
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Gkirito&layout=compact&hide_border=true&range=last_7_days&theme=github_dark&bg_color=00000000"
+    srcset="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Gkirito&layout=compact&hide_border=true&range=last_7_days&theme=github_dark&bg_color=00000000"
   />
   <!-- Light mode -->
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Gkirito&layout=compact&hide_border=true&range=last_7_days&theme=default&bg_color=00000000"
+    srcset="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Gkirito&layout=compact&hide_border=true&range=last_7_days&theme=default&bg_color=00000000"
   />
   <!-- Fallback (for old browsers or if media queries fail) -->
   <img
     alt="WakaTime last 7 days"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Gkirito&layout=compact&hide_border=true&range=last_7_days&theme=default&bg_color=00000000"
+    src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Gkirito&layout=compact&hide_border=true&range=last_7_days&theme=default&bg_color=00000000"
   />
 </picture>
 
